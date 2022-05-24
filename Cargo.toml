@@ -1,0 +1,12 @@
+[package]
+name = "rust-transformer"
+version = "0.0.0"
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+tch = "^0.7.2"
+fast-math = "^0.1.1"
+ndarray = "0.15.4"
+ndarray-rand = "0.14.0"
+rand = "0.8"
